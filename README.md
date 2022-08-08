@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niklas
-- 👀 I’m interested in the usage of computer science within the financial markets. Ranging from blockchain and smart contracts to building algorithmic trading software.
+- 👀 I’m interested in the usage of computer science within the financial markets.
 - 🌱 I’m currently learning computer science with a focus on math and python.
 - 💞️ I’m looking to collaborate on everything that peakes my interest.
 - 📫 How to reach me: niklas.biberstein@gmail.com
