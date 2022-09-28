@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niklas
 
-- 👀 I’m interested in computer science because I want to build sth. big without concret and steel. I want to create sth. that will eventually have an impact on the world!
+- 👀 I’m interested in computer science because I want to build sth. big without concrete and steel. I want to create sth. that will eventually have an impact on the world!
   
 - 💞️ I’m looking to collaborate on everything that peakes my interest.
 - 📫 How to reach me: niklas.biberstein@gmail.com
